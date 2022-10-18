@@ -90,5 +90,6 @@
       }
     }
   },
-  "tags": ["scope:store", "type:app"]
+  "tags": ["scope:store", "type:app"],
+  "implicitDependencies": []
 }
